@@ -1,3 +1,6 @@
+//Harismran Preet Singh
+//Testing
+
 const myFunctions = require('./stock-portfolio.js');
 
 test('Creating a stock portfolio', () => {

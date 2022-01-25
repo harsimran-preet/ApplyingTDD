@@ -1,3 +1,7 @@
+//Harismran Preet Singh
+//Functions
+
+
 function settingup(){
     return [];
 }
